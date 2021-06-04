@@ -9,14 +9,14 @@ body {
 }
 
 h1 {
-    font-size: 3vw;
+    font-size: 2rem;
     margin-bottom: 30px;
 }
 
 .canvas{
     
-    width: 700px;
-    height: 700px;
+    width: 500px;
+    height: 500px;
     background-color: white;
     border-radius: 15px;
     box-shadow: 10px 5px 5px #808080;
